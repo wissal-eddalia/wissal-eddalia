@@ -36,7 +36,7 @@ I build end-to-end AI systems with a focus on **Geo-AI**, **NLP**, **computer vi
 `Deep Learning` `NLP` `Computer Vision` `Time Series` `Reinforcement Learning` ``
 
 **Frameworks & Tools**  
-`FastAPI` `React` `Flutter` `PyTorch` `scikit-learn` `PostGIS` `Docker` `Git` `Mapbox` `QGIS`
+`FastAPI` `React` `Flutter` `PyTorch` `scikit-learn` `PostGIS`  `Git` `Mapbox` `QGIS`
 
 ---
 
@@ -53,4 +53,4 @@ I build end-to-end AI systems with a focus on **Geo-AI**, **NLP**, **computer vi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wissal--eddalia-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wissal-eddalia-51a831292)
 [![Email](https://img.shields.io/badge/Email-wissal.eddalia@ensia.edu.dz-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wissal.eddalia@ensia.edu.dz)
 
-> Open to research collaborations, internships, and full-time opportunities from **June 2027**.
+> Open to research collaborations, internships, and full-time opportunities from **June 2026**.
