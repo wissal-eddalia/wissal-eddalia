@@ -1,4 +1,4 @@
-# Wissal Eddalia — AI & Data Science Engineer
+# Wissal Eddalia ; AI & Data Science Engineer
 
 4th-year AI & Data Science Engineering student at **ENSIA** (National School of Artificial Intelligence, Algeria).  
 I build end-to-end AI systems with a focus on **Geo-AI**, **NLP**, **computer vision**, and **time series analysis**  from research prototypes to production-grade platforms.
